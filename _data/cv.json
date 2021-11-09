@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics":
+    {
+        "name": "Matias Jose Agelvis Dominguez",
+        "label": "Programmer",
+        "url": "https://matiasagelvis.github.io",
+        "profiles":
+        [
+            {
+                "network": "Github",
+                "username": "matiasagelvis",
+                "url": "https://github.com/matiasAgelvis"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Matias Agelvis",
+                "url": "https://linkedin.com/in/matias-agelvis"
+            },
+            {
+                "network": "StackOverflow",
+                "username": "Matias Agelvis",
+                "url": "https://stackoverflow.com/users/7666811/matias-agelvis"
+            }
+        ]
+    }
+}
