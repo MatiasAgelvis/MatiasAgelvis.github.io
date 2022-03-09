@@ -52,6 +52,7 @@ google_fonts:
 navigation_pages:
   - about.md
   - cv.md
+  - projects.md
   - contact.md
 #   - posts.md
 #   - recipes.md
