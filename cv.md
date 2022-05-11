@@ -47,15 +47,17 @@ actions:
 
 -   **Python:** Over two years of intense everyday use, experience with Pandas, Numpy, Jupyter, Google's OR-TOOLS, Keras and Tensorflow.
 
--   **C++:** Over six years of experience, wrote all the code for my thesis on it, a compiler, a virtual machine, and an assembler for a course. Also wrote [OmegaInt][1] an easy to use arbitrarily sized Int implementation for C++.
+-   **C++:** Four years of experience, wrote all the code for my thesis on it, a compiler, a virtual machine, and an assembler for a course. Also wrote [OmegaInt][1] an easy to use arbitrarily sized Int implementation for C++.
 
 -   **Bash:** Avid user of Bash and Zsh in Linux and MacOS.
 
--   **MiniZinc:** For modelling of discrete systems, operations research, linear and mixed integer programming.
+-   **MiniZinc:** Six months of experience doing constraint optimization, modelling discrete systems, and converting models from CP to MIP.
+
+-   **JavaScript:** Over six months of experience developing the [Stellaid](https://MatiasAgelvis.com/stellaid) browser extension.
 
 -   **Gnuplot:** Can make all sorts of plots, considerable experience in batch plotting and interfacing with LaTeX
 
--   Also knowledgeable of **SQL (Impala)** **C**, **Ruby**, **SML**, **Netlogo**, **LaTeX**
+-   Also knowledgeable of **SQL (Impala)**, **React**, **C**, **Ruby**, **SML**, **Netlogo**, **LaTeX**
 
 [1]: https://github.com/MatiasAgelvis/OmegaInt
 
