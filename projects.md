@@ -4,14 +4,14 @@ title: Projects
 description: So little time, so much to do!
 ---
 
+-   [**Kumigi**](https://kumigi.com)  
+    Desing your own avatar and download it, also with an [API](https://kumigi.com/api/sample) to always have your avatar near.
+
 -   [**Stellaid**](https://MatiasAgelvis.com/stellaid)  
     Browser extension that helps you explore pages like coursera and find quality courses faster by giving you a peer reviewed score for each product.
 
 -   [**ValmoreAgelvis.com**](https://valmoreagelvis.com)  
     Blog and index card repository for Valmore Agelvis, PhD., his index card collection can also be downloaded in multiple formats.
-
--   [**Avatara**](https://avatara.vercel.app)  
-     Desing your own avatar with your initials and download it, also with an [API](http://avatara.herokuapp.com/) to always have your avatar near.
 
 -   [**CellSV**](https://MatiasAgelvis.com/cellsv)  
     Website to convert XML files to CSV, aimed at XML files with large and schemas or complex data fields, by preserving the XML structure and exposing the variable fields so that they can be edited as a spreadsheet.
