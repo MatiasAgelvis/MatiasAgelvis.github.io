@@ -4,7 +4,7 @@ title: Projects
 description: So little time, so much to do!
 ---
 
--   [**Kumigi**](https://kumigi-development.up.railway.app)  
+-   [**Kumigi**](https://kumigi.com)  
     Desing your own avatar and download it, also with an [API](https://kumigi.com/api/sample) to always have your avatar near.
 
 -   [**Stellaid**](https://MatiasAgelvis.com/stellaid)  
