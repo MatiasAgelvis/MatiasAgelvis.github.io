@@ -47,13 +47,13 @@ actions:
 
 -   **Python:** Over two years of intense everyday use, experience with Pandas, Numpy, Jupyter, Google's OR-TOOLS, Keras and Tensorflow.
 
--   **C++:** Four years of experience, wrote all the code for my thesis on it, a compiler, a virtual machine, and an assembler for a course. Also wrote [OmegaInt][1] an easy to use arbitrarily sized Int implementation for C++.
+-   **JavaScript:** Over one year of experience developing the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid) to rate find peer adjusted Coursera course ratings.
 
 -   **Bash:** Avid user of Bash and Zsh in Linux and MacOS.
 
 -   **MiniZinc:** Six months of experience doing constraint optimization, modelling discrete systems, and converting models from CP to MIP.
 
--   **JavaScript:** Over one year of experience developing the [Kumigi] (https://kumigi.com) avatar designer app and[Stellaid](https://MatiasAgelvis.com/stellaid) the browser extension to find the best courses in Coursera.
+-   **C++:** Four years of experience, wrote all the code for my thesis on it, a compiler, a virtual machine, and an assembler for a course. Also wrote [OmegaInt][1] an easy to use arbitrarily sized Int implementation for C++.
 
 -   **Gnuplot:** Can make all sorts of plots, considerable experience in batch plotting and interfacing with LaTeX
 
