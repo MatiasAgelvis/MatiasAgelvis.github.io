@@ -53,7 +53,7 @@ actions:
 
 -   **MiniZinc:** Six months of experience doing constraint optimization, modelling discrete systems, and converting models from CP to MIP.
 
--   **JavaScript:** Over six months of experience developing the [Stellaid](https://MatiasAgelvis.com/stellaid) browser extension.
+-   **JavaScript:** Over one year of experience developing the [Kumigi] (https://kumigi.com) avatar designer app and[Stellaid](https://MatiasAgelvis.com/stellaid) the browser extension to find the best courses in Coursera.
 
 -   **Gnuplot:** Can make all sorts of plots, considerable experience in batch plotting and interfacing with LaTeX
 
