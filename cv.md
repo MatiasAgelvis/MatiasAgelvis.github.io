@@ -33,6 +33,12 @@ actions:
 [Notes]:   resources/Notes_Matias_Agelvis.pdf
 [Place]:   resources/place_in_the_promotion_Matias_Agelvis.pdf
 
+
+## Work Experience
+
+*Front End Developer* at **Aliados** : 
+> 03/2022 – 10/2022, Venezuela.
+
 ## Voluntary Experience
 
 *Tour Guide* at the **Museum of Science and Technology** : 
