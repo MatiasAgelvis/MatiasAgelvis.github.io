@@ -36,8 +36,8 @@ actions:
 
 ## Work Experience
 
-*Front End Developer* at **Aliados** : 
-> 03/2022 – 10/2022, Venezuela.
+*Front End Developer* at **RENYT Tech** : 
+> 03/2022 – 10/2022, Remote.
 
 ## Voluntary Experience
 
@@ -53,7 +53,7 @@ actions:
 
 -   **Python:** Over two years of intense everyday use, experience with Pandas, Numpy, Jupyter, Google's OR-TOOLS, Keras and Tensorflow.
 
--   **JavaScript:** Over one year of experience developing the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid) to rate find peer adjusted Coursera course ratings.
+-   **JavaScript:** Over one year of experience developing the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid) to find peer adjusted course ratings in Coursera.
 
 -   **Bash:** Avid user of Bash and Zsh in Linux and MacOS.
 
