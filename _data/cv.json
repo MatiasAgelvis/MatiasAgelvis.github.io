@@ -1,12 +1,10 @@
 {
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-    "basics":
-    {
+    "basics": {
         "name": "Matias Jose Agelvis Dominguez",
-        "label": "Programmer",
+        "label": "Software Developer",
         "url": "https://matiasagelvis.github.io",
-        "profiles":
-        [
+        "profiles": [
             {
                 "network": "Github",
                 "username": "matiasagelvis",
