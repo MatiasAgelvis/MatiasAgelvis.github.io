@@ -36,32 +36,37 @@ actions:
 
 ## Work Experience
 
-*Front End Developer* at **RENYT Tech** : 
-> 03/2022 – 10/2022, Remote.
+*Front End Developer* at **RENYT Tech** :
+> 03/2022 – 10/2022, Remote.  
+Technologies used: Next.js | Chakra | React.js | TypeScript
+- Created a blog from scratch, including the design and implementation of the layout and visual elements of the blog, using path dependent color schemes and other innovative features.
+- Ensured that the blog was responsive, and that the UI was fully functional on all devices, including desktops, laptops, tablets, and smartphones.
+- Tested all blog components across different browsers and devices with Storybook to ensure compatibility and fixed any issues that arose.
+- Developed features such as navigation menus, forms, search functionality, and article filter using tags.
+- Optimized speed and performance, including image optimization and minification of CSS and JavaScript files.
+- Continuously monitored the website performance and made necessary changes to improve it.
 
-## Voluntary Experience
 
-*Tour Guide* at the **Museum of Science and Technology** : 
-> 03/2018 – 09/2018, Merida, Venezuela.
+*Research Assistant* at **Universidad de los Andes, Nonlinear Dynamics Group of the** :
+> 05/2017 – 07/2018, Merida, Venezuela.  
+- Assisted a professor in conducting academic research, including the execution of research projects, conducting literature reviews, collecting and analyzing data, and preparing research papers.
 
-*Volunteer Translator* at the Complexity Explorer of the Santa Fe Institute : 
-> Captioned over 150 minutes of content in English and Spanish.  
 
 ## Technical Experience  
   
 #### Programming Languages  
 
--   **Python:** Over two years of intense everyday use, experience with Pandas, Numpy, Jupyter, Google's OR-TOOLS, Keras and Tensorflow.
+-   **Python:** 2+ years of everyday use, experience with Pandas, Numpy, Jupyter, Google’s OR-TOOLS, Keras and Tensorflow.
 
 -   **JavaScript:** Over one year of experience developing the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid) to find peer adjusted course ratings in Coursera.
 
 -   **Bash:** Avid user of Bash and Zsh in Linux and MacOS.
 
--   **MiniZinc:** Six months of experience doing constraint optimization, modelling discrete systems, and converting models from CP to MIP.
+-   **MiniZinc:** Experience doing constraint optimization, modelling discrete systems, and converting models from CP to MIP.
 
--   **C++:** Four years of experience, wrote all the code for my thesis on it, a compiler, a virtual machine, and an assembler for a course. Also wrote [OmegaInt][1] an easy to use arbitrarily sized Int implementation for C++.
+-   **C++:** Four years of experience, used it to create my thesis, a compiler, a virtual machine, and an assembler for a course. Also wrote OmegaInt, which is an easy to use arbitrarily sized Int implementation for C++.
 
--   **Gnuplot:** Can make all sorts of plots, considerable experience in batch plotting and interfacing with LaTeX
+-   **Gnuplot:** Able to make all sorts of plots, considerable experience in batch plotting and interfacing with LaTeX.
 
 -   Also knowledgeable of **SQL (Impala)**, **React**, **C**, **Ruby**, **SML**, **Netlogo**, **LaTeX**
 
