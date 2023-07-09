@@ -25,6 +25,8 @@ actions:
 | Translations: | [Diploma][Diploma] | [Certified Notes][Notes]         | [Place in Promotion][Place]            |
 | Originals:    | [Diploma][Titulo]  | [Certified Notes][Notas]         | [Place in Promotion][Lugar]            |
 
+[French Diploma Homologation][Homologation]
+
 [Titulo]: resources/Titulo_Registrado_Matias_Agelvis.pdf
 [Notas]:  resources/Notas_Certificadas_Matias_Agelvis.pdf
 [Lugar]:  resources/Lugar_en_la_promocion_Matias_Agelvis.pdf
@@ -32,6 +34,8 @@ actions:
 [Diploma]: resources/Diploma_Matias_Agelvis.pdf  
 [Notes]:   resources/Notes_Matias_Agelvis.pdf
 [Place]:   resources/place_in_the_promotion_Matias_Agelvis.pdf
+
+[Homologation]:   resources/attestation_AC_897730.pdf
 
 
 ## Work Experience
@@ -93,7 +97,7 @@ Technologies used: Next.js | Chakra | React.js | TypeScript
 
      * Spanish (Native Speaker).
      * English ([Score 100/120 in TOEFL](../resources/Toefl_Score_Matias_Agelvis.pdf)).
-     * French (No certification).
+     * French (Fluent).
 
 * 10+ Years of experience in Tai-Chi Chuan.
 
