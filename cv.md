@@ -40,6 +40,15 @@ actions:
 
 ## Work Experience
 
+*Freelance Web Developer* :
+> 02/2023 - Present
+- Designed and developed eye-catching, responsive static websites for a strong online presence.
+- Utilized HTML, CSS, JavaScript, and React to create custom web solutions tailored to clients' needs.
+- Collaborated closely with clients to capture their brand identity and business goals in effective websites.
+- Automated build, testing, and deployment with continuous integration for rapid updates.
+- Provided ongoing tech support, ensuring long-term website functionality and performance.
+
+
 *Front End Developer* at **RENYT Tech** :
 > 03/2022 – 10/2022, Remote.  
 Technologies used: Next.js | Chakra | React.js | TypeScript
@@ -50,6 +59,12 @@ Technologies used: Next.js | Chakra | React.js | TypeScript
 - Optimized speed and performance, including image optimization and minification of CSS and JavaScript files.
 - Continuously monitored the website performance and made necessary changes to improve it.
 
+*Freelance Web Developer* :
+> 07/2019 - 02/2022
+- Crafted visually engaging, responsive websites for enhanced online presence. Employed HTML, CSS, JavaScript, and React for bespoke web solutions.
+- Collaborated with clients to align branding, messaging, and objectives, achieving distinctive and goal-driven websites.
+- Automated build, testing, and deployment via continuous integration for code quality and swift updates.
+- Delivered continuous tech support for long-term website functionality and performance.
 
 *Research Assistant* at **Universidad de los Andes, Nonlinear Dynamics Group of the** :
 > 05/2017 – 07/2018, Merida, Venezuela.  
