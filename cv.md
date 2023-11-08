@@ -10,34 +10,6 @@ actions:
 
 <!-- # Matias Jose Agelvis Dominguez   -->
 
-## Education  
-
-2011-2018   
-**BSc, Physics**: Universidad de los Andes (Merida, Venezuela)  
-    
->    *Tutor: Mario G. Cosenza M, Ph.D*  
-    *Thesis: Suppression of Escape in Dynamical Systems*   
-    *Weighted GPA (01-20 scale): 16.2*  
-    *Graduated with __Cum Laude__ Honors*
-
-#### Documents
-
-| Translations: | [Diploma][Diploma] | [Certified Notes][Notes]         | [Place in Promotion][Place]            |
-| Originals:    | [Diploma][Titulo]  | [Certified Notes][Notas]         | [Place in Promotion][Lugar]            |
-
-[French Diploma Homologation][Homologation]
-
-[Titulo]: resources/Titulo_Registrado_Matias_Agelvis.pdf
-[Notas]:  resources/Notas_Certificadas_Matias_Agelvis.pdf
-[Lugar]:  resources/Lugar_en_la_promocion_Matias_Agelvis.pdf
-
-[Diploma]: resources/Diploma_Matias_Agelvis.pdf  
-[Notes]:   resources/Notes_Matias_Agelvis.pdf
-[Place]:   resources/place_in_the_promotion_Matias_Agelvis.pdf
-
-[Homologation]:   resources/attestation_AC_897730.pdf
-
-
 ## Work Experience
 
 *Freelance Web Developer* :
@@ -69,6 +41,34 @@ Technologies used: Next.js | Chakra | React.js | TypeScript
 *Research Assistant* at **Universidad de los Andes, Nonlinear Dynamics Group of the** :
 > 05/2017 – 07/2018, Merida, Venezuela.  
 - Assisted a professor in conducting academic research, including the execution of research projects, conducting literature reviews, collecting and analyzing data, and preparing research papers.
+
+
+## Education  
+
+2011-2018   
+**BSc, Physics**: Universidad de los Andes (Merida, Venezuela)  
+    
+>    *Tutor: Mario G. Cosenza M, Ph.D*  
+    *Thesis: Suppression of Escape in Dynamical Systems*   
+    *Weighted GPA (01-20 scale): 16.2*  
+    *Graduated with __Cum Laude__ Honors*
+    [Recognized as equivalent to a French diploma][Equivalence]
+
+#### Documents
+
+| Translations: | [Diploma][Diploma] | [Certified Notes][Notes]         | [Place in Promotion][Place]            |
+| Originals:    | [Diploma][Titulo]  | [Certified Notes][Notas]         | [Place in Promotion][Lugar]            |
+
+
+[Titulo]: resources/Titulo_Registrado_Matias_Agelvis.pdf
+[Notas]:  resources/Notas_Certificadas_Matias_Agelvis.pdf
+[Lugar]:  resources/Lugar_en_la_promocion_Matias_Agelvis.pdf
+
+[Diploma]: resources/Diploma_Matias_Agelvis.pdf  
+[Notes]:   resources/Notes_Matias_Agelvis.pdf
+[Place]:   resources/place_in_the_promotion_Matias_Agelvis.pdf
+
+[Equivalence]:   resources/attestation_AC_897730.pdf
 
 
 ## Technical Experience  
