@@ -75,32 +75,25 @@ Technologies used: Next.js | Chakra | React.js | TypeScript
   
 #### Programming Languages  
 
--   **Python:** 2+ years of everyday use, experience with Pandas, Numpy, Jupyter, Google’s OR-TOOLS, Keras and Tensorflow.
+-   **Python**: Experience with Pandas, Numpy, Jupyter, Google’s OR-TOOLS, Keras and Tensorflow.
 
--   **JavaScript:** Over one year of experience developing the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid) to find peer adjusted course ratings in Coursera.
+-   **JavaScript**: Spearheaded development of the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid).
 
--   **Bash:** Avid user of Bash and Zsh in Linux and MacOS.
+-   **Bash**: Leveraged Bash proficiency to execute parallel computing tasks, generate visualizations, and streamline system administration.
 
--   **MiniZinc:** Experience doing constraint optimization, modelling discrete systems, and converting models from CP to MIP.
+-   **MiniZinc**: Skilled in applying constraint programming techniques to solve a wide range of optimization problems, including discrete system modeling and model conversion..
 
--   **C++:** Four years of experience, used it to create my thesis, a compiler, a virtual machine, and an assembler for a course. Also wrote OmegaInt, which is an easy to use arbitrarily sized Int implementation for C++.
+-   **C++**: Demonstrated proficiency in C++ for four years, utilizing it for thesis development, compiler creation, virtual machine implementation, and assembler design, and contributing to the development of [OmegaInt](https://github.com/MatiasAgelvis/OmegaInt), a user-friendly arbitrary-precision integer library.
 
--   **Gnuplot:** Able to make all sorts of plots, considerable experience in batch plotting and interfacing with LaTeX.
-
--   Also knowledgeable of **SQL (Impala)**, **React**, **C**, **Ruby**, **SML**, **Netlogo**, **LaTeX**
-
-[1]: https://github.com/MatiasAgelvis/OmegaInt
+-   Also knowledgeable of **SQL (Impala)**, **React**, **GNUplot**, **C**, **Ruby**, **SML**, **Netlogo**, **LaTeX**
 
 #### Physics  
 
--   **Complex Systems**  
+-   **Complex Systems**: Expert analyzer and modeler of intricate systems, unraveling their dynamics and emergent properties.
 
--   **Non-Linear Dynamics**  
+-   **Non-Linear Dynamics**: Skilled investigator of chaotic and unpredictable behavior in nonlinear dynamical systems, extracting hidden order and patterns.
 
--   **Electronics**  
-
--   **Linear Algebra**
-
+-   **Linear Algebra**: Master of matrix manipulation, vector analysis, and linear system solutions, applying concepts to real-world problems.
 
 ## Courses
 
