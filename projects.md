@@ -4,8 +4,8 @@ title: Projects
 description: So little time, so much to do!
 ---
 
--   [**Kumigi**](https://kumigi.com)  
-    Desing your own avatar and download it, also with an [API](https://kumigi.com/api/sample) to always have your avatar near.
+-   [**Kumigi**](https://kumigi.vercel.app/)  
+    Unleash your inner artist with Kumigi! Design personalized avatars using shapes, text, and vibrant colors. Download in various sizes for your online spaces. Express yourself, effortlessly.
 
 -   [**Stellaid**](https://MatiasAgelvis.com/stellaid)  
     Browser extension that helps you explore pages like coursera and find quality courses faster by giving you a peer reviewed score for each product.
