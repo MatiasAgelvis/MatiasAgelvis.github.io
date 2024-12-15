@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Matias Agelvis
-email: 
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   🔼⬆👆 Personal website of Matias Agelvis, come in and see my awesome 😎 website (NOT CLICKBAIT!!!1!)⤴.
-  I really like saying website, it sounds cool, website website website...
   This is exactly what I look like ᕙ(▀̿̿Ĺ̯̿̿▀̿ ̿) ᕗ
+  I really like saying website, it sounds cool, website website website...
   OH, and I almost forgot, here are some emojis: 💪😎🔥🏎🍺🎯.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,7 +32,6 @@ logo: /assets/icons/logo_Nbg_black.svg
 search: true
 search_full_content: true
 search_provider: lunr
-
 
 # Build settings
 theme: jekyll-theme-basically-basic
