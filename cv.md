@@ -82,7 +82,7 @@ Technologies used: Next.js | Chakra | React.js | TypeScript<br/>
 
 -   **Python**: Experience with Pandas, Numpy, Jupyter, Google’s OR-TOOLS, Keras and Tensorflow.
 
--   **JavaScript**: Spearheaded development of the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://MatiasAgelvis.com/stellaid).
+-   **JavaScript**: Spearheaded development of the [Kumigi](https://kumigi.com) avatar designer app and the browser extension [Stellaid](https://github.com/MatiasAgelvis/stellaid).
 
 -   **Bash**: Leveraged Bash proficiency to execute parallel computing tasks, generate visualizations, and streamline system administration.
 
