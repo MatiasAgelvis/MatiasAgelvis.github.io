@@ -57,7 +57,7 @@ Technologies used: Next.js | Chakra | React.js | TypeScript<br/>
 > - *Thesis: Suppression of Escape in Dynamical Systems*
 > - *Weighted GPA (01-20 scale): 16.2*
 > - *Graduated with __Cum Laude__ Honors*
-> - [Recognized as equivalent to a French diploma](Equivalence)
+> - [Recognized as equivalent to a French diploma][Equivalence]
 
 #### Documents
 
