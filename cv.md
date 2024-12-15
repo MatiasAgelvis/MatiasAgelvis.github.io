@@ -48,11 +48,16 @@ Technologies used: Next.js | Chakra | React.js | TypeScript<br/>
 2011-2018
 **BSc, Physics**: Universidad de los Andes (Merida, Venezuela)
 
->   *Tutor: Mario G. Cosenza M, Ph.D*
-    - *Thesis: Suppression of Escape in Dynamical Systems*
-    - *Weighted GPA (01-20 scale): 16.2*
-    - *Graduated with __Cum Laude__ Honors*
-    - [Recognized as equivalent to a French diploma][Equivalence]
+## Education
+
+2011-2018
+**BSc, Physics**: Universidad de los Andes (Merida, Venezuela)
+
+> - *Tutor: Mario G. Cosenza M, Ph.D*
+> - *Thesis: Suppression of Escape in Dynamical Systems*
+> - *Weighted GPA (01-20 scale): 16.2*
+> - *Graduated with __Cum Laude__ Honors*
+> - [Recognized as equivalent to a French diploma](Equivalence)
 
 #### Documents
 
