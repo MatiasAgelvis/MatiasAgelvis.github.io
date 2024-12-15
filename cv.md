@@ -13,8 +13,7 @@ actions:
 ## Work Experience
 
 *Laboratory Technician* at **SIAL** :
-> 03/2024 - Present | Merignac, France.
-
+> 03/2024 - Present | Merignac, France.<br/>
 Assisted in the preparation and testing of soil samples,
 ensuring accuracy and safety compliance. Managed data
 entry in Excel, maintaining organized records. Supported lab
@@ -23,10 +22,8 @@ developing strong attention to detail and procedural
 accuracy.
 
 *Front End Developer* at **RENYT Tech** :
-> 03/2022 – 10/2022 | Remote.
-
-Technologies used: Next.js | Chakra | React.js | TypeScript
-
+> 03/2022 – 10/2022 | Remote.<br/>
+Technologies used: Next.js | Chakra | React.js | TypeScript<br/>
 - Created a blog from scratch, including the design and implementation of the layout and visual elements of the blog, using path dependent color schemes and other innovative features.
 - Ensured that the blog was responsive, and that the UI was fully functional on all devices, including desktops, laptops, tablets, and smartphones.
 - Tested all blog components across different browsers and devices with Storybook to ensure compatibility and fixed any issues that arose.
