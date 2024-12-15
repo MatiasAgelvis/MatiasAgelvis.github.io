@@ -13,7 +13,7 @@ actions:
 ## Work Experience
 
 *Laboratory Technician* at **SIAL** :
-> 03/2024 - Present | Merignac, France.<br/>
+> 03/2024 - Present | Merignac, France.<br/><br/>
 Assisted in the preparation and testing of soil samples,
 ensuring accuracy and safety compliance. Managed data
 entry in Excel, maintaining organized records. Supported lab
