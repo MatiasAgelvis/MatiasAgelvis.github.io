@@ -6,10 +6,11 @@ description: So little time, so much to do!
 
 -   [**Kumigi**](https://kumigi.vercel.app/)
     Unleash your inner artist with Kumigi! Design personalized avatars using shapes, text, and vibrant colors. Download in various sizes for your online spaces. Express yourself, effortlessly.
-    <!--
+
+<!--
 -   [**Stellaid**](https://MatiasAgelvis.com/stellaid)
     Browser extension that helps you explore pages like coursera and find quality courses faster by giving you a peer reviewed score for each product.
-    -->
+-->
 
 -   [**ValmoreAgelvis.com**](https://valmoreagelvis.com)
     Blog and index card repository for Valmore Agelvis, PhD., his index card collection can also be downloaded in multiple formats.
