@@ -8,6 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.1"
+gem "ffi", "~> 1.17", platforms: [:ruby]
 # gem "github-pages"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
