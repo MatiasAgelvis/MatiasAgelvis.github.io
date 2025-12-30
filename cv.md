@@ -20,7 +20,7 @@ Technologies used: Python | FastAPI | Docker | MySQL | RabbitMQ
 - Integrating RabbitMQ for robust asynchronous messaging and inter-service communication.
 - Utilizing Pydantic for data validation and serialization.
 - Implemented secure password storage using industry best practices.
-- Handled financial messaging and transactions via the FIX protocol.
+- Handled financial messaging via the FIX protocol.
 - Adhering to unit and integration testing standards to ensure code quality and system stability.
 - Prioritizing security and compliance while maintaining client confidentiality.
 
