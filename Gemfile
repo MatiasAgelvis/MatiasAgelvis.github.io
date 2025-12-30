@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.x"
+gem "jekyll", "~> 4.0"
 gem "ffi", "~> 1.17", platforms: [:ruby]
 # gem "github-pages"
 
