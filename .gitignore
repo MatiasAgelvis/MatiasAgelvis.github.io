@@ -1,7 +1,9 @@
-_site/
+# _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 .sass-cache
 .vercel
 .DS_Store
+
+/vendor/bundle/
