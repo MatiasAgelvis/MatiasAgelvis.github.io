@@ -12,14 +12,21 @@ actions:
 
 ## Work Experience
 
+*Backend Developer* at **SNAPP'** :
+> 02/2025 – Present | Bordeaux, France<br/>
+Technologies used: Python | FastAPI | Docker | MySQL | RabbitMQ
+- Building the backend architecture entirely from scratch for a banking application, with a strong focus on security and reliability.
+- Architecting a multi-database, fully asynchronous system to maximize scalability and performance.
+- Integrating RabbitMQ for robust asynchronous messaging and inter-service communication.
+- Utilizing Pydantic for data validation and serialization.
+- Implemented secure password storage using industry best practices.
+- Handled financial messaging and transactions via the FIX protocol.
+- Adhering to unit and integration testing standards to ensure code quality and system stability.
+- Prioritizing security and compliance while maintaining client confidentiality.
+
 *Laboratory Technician* at **SIAL** :
-> 03/2024 - Present | Merignac, France<br/><br/>
-Assisted in the preparation and testing of soil samples,
-ensuring accuracy and safety compliance. Managed data
-entry in Excel, maintaining organized records. Supported lab
-operations by handling logistics and equipment maintenance,
-developing strong attention to detail and procedural
-accuracy.
+> 03/2024 - 03/2025 | Merignac, France<br/>
+Gained experience in compliance, organization, and attention to detail while supporting laboratory operations and data management.
 
 *Front End Developer* at **RENYT Tech** :
 > 03/2022 – 10/2022 | Remote<br/>
