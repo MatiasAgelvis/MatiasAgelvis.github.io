@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>$title$</title>
+
+    $if(description)$<meta name="description" content="$description$" />
+    <meta property="og:description" content="$description$" />$endif$
+
+    <meta property="og:title" content="$title$" />
+    $if(url)$<meta property="og:url" content="$url$" />$endif$
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter cards -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="$title$" />
+    $if(description)$<meta name="twitter:description" content="$description$" />$endif$
+
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+    <link rel="stylesheet" href="assets/stylesheets/cv.css" />
+
+    $for(header-includes)$
+    $header-includes$
+    $endfor$
+  </head>
+
+  <body>
+    <!-- <header>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="courses.html">Courses</a>
+      </nav>
+    </header> -->
+
+    <main>
+      <div class="container">
+$body$
+      </div>
+    </main>
+
+    <footer>
+      <p>
+        © $if(author)$$author$$else$Matias Agelvis$endif$ — Built with Pandoc
+      </p>
+    </footer>
+
+    <script src="assets/javascripts/cv.js" defer></script>
+  </body>
+</html>
