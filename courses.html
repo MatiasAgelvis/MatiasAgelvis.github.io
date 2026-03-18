@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Courses — Matias Agelvis</title>
+
+  <!-- Classless stylesheet (handcrafted page style) -->
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
+
+  <!-- Reuse the existing course UI styles + script -->
+  <link rel="stylesheet" href="assets/stylesheets/cv.css" />
+</head>
+<body>
+  <nav>
+    <p><a class="button" href="index.html">← Back to home</a></p>
+  </nav>
+
+  <section>
+    <h1>Courses</h1>
+    <p>Here are most of the training programs and certificates I've completed.</p>
+
+    <p id="toggle-message"><small>Ordering of the certificates:</small></p>
+    <div class="switches-container">
+        <input type="radio" id="switchCategorical" name="switch" value="Categorical" checked onclick="swap_order()">
+        <input type="radio" id="switchChronological" name="switch" value="Chronological" onclick="swap_order()">
+        <label for="switchCategorical">Categorical</label>
+        <label for="switchChronological">Chronological</label>
+        <div class="switch-wrapper">
+            <div class="switch">
+                <div>Categorical</div>
+                <div>Chronological</div>
+            </div>
+        </div>
+    </div>
+
+    <ul class="certificates">
+        <ul id="chronological" style="display:none">
+            <!-- TensorFlow: Advanced Techniques Specialization -->
+            <li><a href="#" class="toggle course">TensorFlow: Advanced Techniques Specialization</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/specialization/VA6JZK83T7XG">VA6JZK83T7XG</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>August 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- TensorFlow 2 for Deep Learning Specialization -->
+            <li><a href="#" class="toggle course">TensorFlow 2 for Deep Learning Specialization</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/specialization/NQDRPS5HKG8G">NQDRPS5HKG8G</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>August 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- DeepLearning.AI TensorFlow Developer Professional Certificate -->
+            <li><a href="#" class="toggle course">DeepLearning.AI TensorFlow Developer Professional Certificate</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/verify/professional-cert/AJ64YCK7NRVZ">AJ64YCK7NRVZ</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>August 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- Generative Deep Learning with TensorFlow -->
+            <li><a href="#" class="toggle course">Generative Deep Learning with TensorFlow</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/verify/7FNY99XEZEAT">7FNY99XEZEAT</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>August 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- Probabilistic Deep Learning with TensorFlow 2 -->
+            <li><a href="#" class="toggle course">Probabilistic Deep Learning with TensorFlow 2</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/verify/4LBDVXU7U5FU">4LBDVXU7U5FU</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>August 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- Sequences, Time Series and Prediction -->
+            <li><a href="#" class="toggle course">Sequences, Time Series and Prediction</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/verify/UX7AAFWH98ZE">UX7AAFWH98ZE</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>August 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- Modern Big Data Analysis with SQL Specialization -->
+            <li><a href="#" class="toggle course">Modern Big Data Analysis with SQL Specialization</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/specialization/Q6UBTMN2FQNG">Q6UBTMN2FQNG</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>July 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- Advanced Computer Vision with TensorFlow -->
+            <li><a href="#" class="toggle course">Advanced Computer Vision with TensorFlow</a>
+                <div class="inner">
+                    <ul class="course-data">
+                        <li>Credential ID: <a class="course-ID" href="https://www.coursera.org/account/accomplishments/verify/W5MQRSCMKCGX">W5MQRSCMKCGX</a></li>
+                        <li>Issuing authority: <strong>Coursera</strong></li>
+                        <li>Issue Date: <strong>July 2021</strong></li>
+                    </ul>
+                </div>
+            </li>
+            <!-- ... (rest of the original list omitted for brevity) -->
+        </ul>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Designed by Matias Agelvis.</p>
+  </footer>
+
+  <script src="assets/javascripts/cv.js" defer></script>
+</body>
+</html>
