@@ -51,4 +51,10 @@ This site is a compact hub for what I build and how to reach me.
 ## <span id="contact"></span>Contact
 
 - **GitHub:** [github.com/MatiasAgelvis](https://github.com/MatiasAgelvis)
-<!-- - **Courses:** [Courses page](courses.html) -->
+
+<p>To get in touch, please fill out the contact form below:</p>
+
+<div style="position:relative; width:100%; min-height:640px; margin-top:1rem;">
+<script async src="https://tally.so/widgets/embed.js"></script>
+<iframe data-tally-src="https://tally.so/r/A76LDN" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0" title="Contact"></iframe>
+</div>
