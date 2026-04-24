@@ -50,10 +50,5 @@ This site is a compact hub for what I build and how to reach me.
 
 ## <span id="contact"></span>Contact
 
-- **Email:** <span id="contact-email">(enable JavaScript to view)</span>
 - **GitHub:** [github.com/MatiasAgelvis](https://github.com/MatiasAgelvis)
 <!-- - **Courses:** [Courses page](courses.html) -->
-
-<noscript>
-  <p><em>JavaScript is required to display the email address. Please enable it or contact me via GitHub (or find me on StackOverflow).</em></p>
-</noscript>
