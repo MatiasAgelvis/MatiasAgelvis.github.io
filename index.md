@@ -27,10 +27,10 @@ This site is a compact hub for what I build and how to reach me.
 
 ### Recent engagements
 
-#### SNAPP’ (Feb 2025 - Apr 2026)
+#### SNAPP’ (Feb 2025–Apr 2026)
 - Backend Engineer: engineered asynchronous FastAPI REST services, custom bearer-token authentication/authorization middleware, multi-database relational persistence layers, and RabbitMQ-backed RPC messaging infrastructure.
 
-#### SIAL (March 2024 - March 2025)
+#### SIAL (Mar 2024–Mar 2025)
 - Lab technician: supported equipment setup and experiment workflows.
 
 ---
