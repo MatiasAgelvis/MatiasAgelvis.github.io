@@ -13,9 +13,9 @@ This site is a compact hub for what I build and how to reach me.
 
 ## <span id="about"></span>What I do
 
-- Build operations research solutions for manufacturing scheduling and production planning.
-- Build production-grade backend services with **FastAPI + async Python**.
-- Design event-driven systems (RabbitMQ) and resilient service-to-service APIs.
+- Build operations research solutions for manufacturing scheduling and production planning
+- Build production-grade backend services with **FastAPI + async Python**
+- Design event-driven systems (RabbitMQ) and resilient service-to-service APIs
 
 ---
 
@@ -34,15 +34,15 @@ This site is a compact hub for what I build and how to reach me.
 
 ## <span id="projects"></span>Other projects
 
-- [**Kumigi**](https://kumigi.vercel.app) — avatar builder (React + Node).
-- [**NES Calculator**](https://matiasagelvis.github.io/NEScalculator) — retro UI calculator.
-- [**Warkdown98**](https://matiasagelvis.github.io/Warkdown-98/) — Markdown editor with vintage styling.
-- [**Significado Total**](https://semioteca.vercel.app) — webapp in active development for linguistics research.
-- [**Mondrian tribute**](http://fcc.matiasagelvis.com/tribute/) — frontend experiment.
+- [**Kumigi**](https://kumigi.vercel.app) — avatar builder (React + Node)
+- [**Significado Total**](https://semioteca.vercel.app) — webapp in active development for linguistics research (Python + Svelte)
+- [**NES Calculator**](https://matiasagelvis.github.io/NEScalculator) — retro UI calculator (React)
+- [**Warkdown98**](https://matiasagelvis.github.io/Warkdown-98/) — Markdown editor with vintage styling (React)
+- [**Mondrian tribute**](http://fcc.matiasagelvis.com/tribute/) — frontend experiment (HTML + CSS)
 
 ### Open source & tooling
-- [**OmegaInt**](https://github.com/matiasagelvis/omegaint) — arbitrary-precision integer library (C++).
-- [**CellSV**](https://matiasagelvis.github.io/cellsv) — high-performance XML to CSV conversion.
+- [**OmegaInt**](https://github.com/matiasagelvis/omegaint) — arbitrary-precision integer library (C++)
+- [**CellSV**](https://matiasagelvis.github.io/cellsv) — high-performance XML to CSV conversion (Vanilla JS)
 
 ---
 
