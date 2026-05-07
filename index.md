@@ -5,7 +5,7 @@ description: "A one-page personal site for Matias Agelvis — software, science,
 
 # <span id="home"></span>Hi 👋
 
-I’m **Matias Agelvis** — a backend engineer focused on scalable, async systems (FastAPI, Python).
+I’m **Matias Agelvis** — founder and operations research engineer focused on manufacturing scheduling, optimization, and scalable Python systems.
 
 This site is a compact hub for what I build and how to reach me.
 
@@ -13,25 +13,22 @@ This site is a compact hub for what I build and how to reach me.
 
 ## <span id="about"></span>What I do
 
+- Build operations research solutions for manufacturing scheduling and production planning.
 - Build production-grade backend services with **FastAPI + async Python**.
 - Design event-driven systems (RabbitMQ) and resilient service-to-service APIs.
-- Model and solve discrete optimization problems using operations research techniques.
 
 ---
 
 ## <span id="work"></span>Current work
 
 ### Margaux Systems (Mar 2026–present)
-- Founder: developing operations research solutions for manufacturing scheduling and production planning.
+- Founder: developing scheduling and production-planning solutions for small and medium manufacturers.
 - Building optimization models and decision-support deliverables including simulations, analytical reporting, visualizations, and Excel-based planning tools.
 
-### Recent engagements
+### Relevant recent engagements
 
 #### SNAPP’ (Feb 2025–Apr 2026)
-- Backend Engineer: engineered asynchronous FastAPI REST services, custom bearer-token authentication/authorization middleware, multi-database relational persistence layers, and RabbitMQ-backed RPC messaging infrastructure.
-
-#### SIAL (Mar 2024–Mar 2025)
-- Lab technician: supported equipment setup and experiment workflows.
+- Backend Engineer: engineered enterprise-grade asynchronous FastAPI REST services, custom bearer-token authentication/authorization middleware, multi-database relational persistence layers, and RabbitMQ-backed RPC messaging infrastructure.
 
 ---
 
@@ -42,7 +39,6 @@ This site is a compact hub for what I build and how to reach me.
 - [**Warkdown98**](https://matiasagelvis.github.io/Warkdown-98/) — Markdown editor with vintage styling.
 - [**Significado Total**](https://semioteca.vercel.app) — webapp in active development for linguistics research.
 - [**Mondrian tribute**](http://fcc.matiasagelvis.com/tribute/) — frontend experiment.
-
 
 ### Open source & tooling
 - [**OmegaInt**](https://github.com/matiasagelvis/omegaint) — arbitrary-precision integer library (C++).
