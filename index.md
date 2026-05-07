@@ -34,15 +34,22 @@ This site is a compact hub for what I build and how to reach me.
 
 ## <span id="projects"></span>Other projects
 
-- [**Kumigi**](https://kumigi.vercel.app) — avatar builder (React + Node)
-- [**Significado Total**](https://semioteca.vercel.app) — webapp in active development for linguistics research (Python + Svelte)
-- [**NES Calculator**](https://matiasagelvis.github.io/NEScalculator) — retro UI calculator (React)
-- [**Warkdown98**](https://matiasagelvis.github.io/Warkdown-98/) — Markdown editor with vintage styling (React)
-- [**Mondrian tribute**](http://fcc.matiasagelvis.com/tribute/) — frontend experiment (HTML + CSS)
+- [**Kumigi**](https://kumigi.vercel.app)
+  > avatar builder with React + Node
+- [**Significado Total**](https://semioteca.vercel.app)
+  > webapp in active development for linguistics research with Python + Svelte
+- [**NES Calculator**](https://matiasagelvis.github.io/NEScalculator)
+  > retro UI calculator built with React
+- [**Warkdown98**](https://matiasagelvis.github.io/Warkdown-98/)
+  > Markdown editor with vintage styling built with React
+- [**Mondrian tribute**](http://fcc.matiasagelvis.com/tribute/)
+  > frontend experiment with HTML + CSS
 
 ### Open source & tooling
-- [**OmegaInt**](https://github.com/matiasagelvis/omegaint) — arbitrary-precision integer library (C++)
-- [**CellSV**](https://matiasagelvis.github.io/cellsv) — high-performance XML to CSV conversion (Vanilla JS)
+- [**OmegaInt**](https://github.com/matiasagelvis/omegaint)
+  > arbitrary-precision integer library in C++
+- [**CellSV**](https://matiasagelvis.github.io/cellsv)
+  > high-performance XML to CSV conversion with vanilla JS
 
 ---
 
