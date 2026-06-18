@@ -23,7 +23,7 @@ This site is a compact hub for what I build and how to reach me.
 
 ### Margaux Systems (Mar 2026–present)
 - Founder: developing scheduling and production-planning solutions for small and medium manufacturers.
-- Building optimization models and decision-support deliverables including simulations, analytical reporting, visualizations, and Excel-based planning tools.
+- Building optimization models and decision-support deliverables including simulations, analytical reporting, visualizations, and planning analyses.
 
 ### Relevant recent engagements
 
